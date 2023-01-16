@@ -3,10 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F50&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Karine+Cordeiro;Bem+Vindos!!!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<!-- <div align="center"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=karinecordeiro&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0d1117" alt="Karine Cordeiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinecordeiro&layout=compact&hide_border=true&title_color=FF4500&text_color=ff91a4&bg_color=0d1117" />
-</div>
+</div> -->
 
 
 <div align="center"> 
